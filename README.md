@@ -57,10 +57,12 @@ This project, **RMI Banking Suite**, is developed in Java with a primary focus o
    ```
 
 ## Demonstration Video
-To better understand the project, watch the comprehensive demonstration video on YouTube:
-[Banking System Project Demo](https://youtu.be/JRZuo6A6Q74?si=JAVXagwpsBsqBXSI)
 
-In this video, I, **Salah Eldin Saeed Abu Seif**, along with **Abd Al Razzaq Al Dahdouh** ([GitHub Profile](https://github.com/abood-2020)) and **Fathi Shamallakh** ([GitHub Profile](https://github.com/Fathi-Shamallakh)), walk through the entire project, explaining its features, functionality, and implementation details.
+To gain a deeper understanding of the **RMI Banking Suite**, watch the detailed demonstration video available on my YouTube channel:
+
+[![Watch the video](https://img.youtube.com/vi/JRZuo6A6Q74/hqdefault.jpg)](https://www.youtube.com/watch?v=JRZuo6A6Q74)
+
+In this video, I, **Salah Eldin Saeed Abu Seif**, present an in-depth walkthrough of the project, showcasing its features, explaining its functionality, and providing insights into its implementation. This demonstration is designed to help you explore the core concepts of the system, especially its reliance on **Java RMI** for distributed operations.
 
 
 ## Authors
